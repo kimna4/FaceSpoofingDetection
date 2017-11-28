@@ -15,7 +15,7 @@ Kim, I., Ahn, J., & Kim, D. (2016). Face spoofing detection with highlight remov
 
 ### Overall
 
-
+   <img src="https://github.com/kimna4/FaceSpoofingDetection/resources/pipeline.PNG?raw=true" width=640>
 
 
 
