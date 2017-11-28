@@ -9,7 +9,14 @@ With rapid development of face recognition and detection techniques, the face ha
 
 If you're using this code in a publication, please cite our papers.
 ```     
-Kim, I., Ahn, J., & Kim, D. (2016). Face spoofing detection with highlight removal effect and distortions. 2016 IEEE International Conference on Systems, Man, and Cybernetics (SMC). doi:10.1109/smc.2016.7844907
+@INPROCEEDINGS{7844907, 
+author={Inhan Kim and Juhyun Ahn and Daijin Kim}, 
+booktitle={2016 IEEE International Conference on Systems, Man, and Cybernetics (SMC)}, 
+title={Face spoofing detection with highlight removal effect and distortions}, 
+year={2016}, 
+pages={004299-004304}, 
+doi={10.1109/SMC.2016.7844907}, 
+month={Oct}}
 ```
 
 
